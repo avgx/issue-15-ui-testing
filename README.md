@@ -1,6 +1,1 @@
-# objc-io-issue-15-ux-testing
-
-A sample iOS (Objective-C) project showing several methods to test user
-behavior.
-
-TODO: Link to accomponying objc.io post.
+This is a sample project for the objc.io article [User Interface Testing](http://www.objc.io/issue-15/user-interface-testing.html) showing several methods to test user behavior.
